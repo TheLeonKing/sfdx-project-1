@@ -61,7 +61,7 @@
 
   </lightning:card>
 
-  <lightning:card iconName="utility:photo" title="My Search Results">
+  <lightning:card iconName="utility:photo" title="My Search Results2">
     <lightning:layout horizontalAlign="center" multipleRows="true">
 
       <aura:iteration items="{!v.results}" var="result">
